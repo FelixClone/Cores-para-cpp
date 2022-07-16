@@ -13,7 +13,7 @@
 
 <br><hr>
 <p align="center">
-   <a href="#Como">Como usar as cores</a> ⚬
+   <a href="#-como-usar-as-cores">Como usar as cores</a> ⚬
    <a href="#Cores">Cores</a>
 </p><hr><br>
 
@@ -52,7 +52,7 @@ char pink[] = {0x1b,'[','1',';','3','5','m',0};
 <h5>Gray color<span style="color: gray"> [x]:</span></h5>
 
 ```cpp
-cchar gray[] = {0x1b,'[','1',';','3','0','m',0};
+char gray[] = {0x1b,'[','1',';','3','0','m',0};
 ```
 
 <h5>Red color<span style="color: red"> [x]:</span></h5>
