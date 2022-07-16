@@ -13,7 +13,7 @@
 
 <br><hr>
 <p align="center">
-   <a href="#-como-usar-as-cores">Como usar as cores</a> ⚬
+   <a href="#como-usar-as-cores">Como usar as cores</a> ⚬
    <a href="#Cores">Cores</a>
 </p><hr><br>
 
